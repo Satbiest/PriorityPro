@@ -1,1 +1,8 @@
 # PriorityPro
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+scipy
